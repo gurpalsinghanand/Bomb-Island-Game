@@ -1,0 +1,29 @@
+About the Project
+1	Project Overview
+The title of my project is Bomb Island Game. Bomb Island is a classical game based on some luck and some observational skills. The objective is to find all blocks in 15x15 grid that are not bomb. The game ends when either you find a bomb or find all the tiles without bomb.
+
+2	Methodology:
+Below is the step-by-step approach:
+1.	First project title was given. Then I have found out some functional and non-functional requirements. After that I have visited some of the websites of blogs to get more idea about some interesting application.
+2.	Tools and technology: Language: Python Library: Tkinter
+Editor: pycharm
+3.	Initially I have made some components like forming grid board	by importing all the required images for the tiles required before and after clicking. 
+4.	After that I have designed some of the functions like:
+-	init()
+-	setup()
+-	refreshLabels()
+-	gameOver()
+-	getNeighbors()
+-	OnClickWrapper()
+-	OnClick()
+-	OnRightClickWrapper()
+-	OnRightClick()
+-	clearTiles()
+5.  After that all features were tested and reviewed.
+
+3	Objective of the Project
+This Bomb Island game contains so many features like
+•	Use Restart to start new game and reset all tiles
+•	Use flag function to flag the bomb to remember
+•	Display the time for which game is running.
+•	Dialogue panel to ask for new game after the game ends
